@@ -1,0 +1,22 @@
+{
+  "name": "jsonapi-request-logger",
+  "version": "1.0.0",
+  "description": "HTTP request logger middleware for express JSON APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "express",
+    "http",
+    "logger",
+    "middleware",
+    "development"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/epoch/jsonapi-request-logger"
+  },
+  "author": "DT",
+  "license": "MIT"
+}
